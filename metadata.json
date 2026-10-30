@@ -1,0 +1,6 @@
+{
+  "name": "TokoKu - Sistem Point of Sale (POS)",
+  "description": "Sistem POS TokoKu dengan upload foto produk, transaksi kasir, potong stok otomatis, kelola kasir, cetak struk thermal, laporan penjualan, dan arsitektur backend Laravel 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
